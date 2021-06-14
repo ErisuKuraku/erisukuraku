@@ -8,13 +8,14 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://sheffcol.ac.
 
 ⚙ I like to SoftMod consoles, tweak them and sometimes open them 👀
 
-🏪 I Volunteered at Barnardo's Retail for 1 Year
 
 ### Experiences
 
 🕸 I'm currently participating in the Web Design [WorldSkills](https://www.worldskillsuk.org/competitions/web-design/) Competition for 2021
 
 🏫 Achived a 7 (A) in GCSE Computer Science and a Level 2 Distinction Star in Travel and Tourism 👨‍✈️
+
+🏪 I Volunteered at Barnardo's Retail for 1 Year
 
 ### Follow me
 
