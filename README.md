@@ -21,3 +21,10 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://sheffcol.ac.
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ErisuKuraku?style=social">
 
+### Contact Me
+
+For those wanting to contact me you can reach me on:
+
+🟦 Twitter ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2FErisuKuraku)
+
+📧 Email [Github@bakugo.me](mailto:github@bakugo.me)
