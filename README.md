@@ -27,4 +27,6 @@ For those wanting to contact me you can reach me on:
 
 🟦 Twitter [@ErisuKuraku](https://www.twitter.com/ErisuKuraku)
 
+🟦 Linkedin [Ellis Clarke](https://www.linkedin.com/in/ellisclarke/)
+
 📧 Email [Github@bakugo.me](mailto:github@bakugo.me)
