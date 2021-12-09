@@ -4,7 +4,7 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://sheffcol.ac.
 
 ### About me
 
-👨‍💻 I know VB, HTML, CSS and I'm currently learning C#
+👨‍💻 I know VB, HTML, CSS, some Python and some C#
 
 ⚙ I like to SoftMod consoles, tweak them and sometimes open them 👀
 
