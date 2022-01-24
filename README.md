@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-I'm a student at WanDisco Academy @ [The Sheffield College](https://sheffcol.ac.uk)
+I'm a student at WanDisco Academy @ [The Sheffield College](https://www.sheffcol.ac.uk/academy/wandisco-data-academy)
 
 ### About me
 
@@ -8,6 +8,7 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://sheffcol.ac.
 
 ⚙ I like to SoftMod consoles, tweak them and sometimes open them 👀
 
+🕸 Proud owner of [Bakugo.me](https://bakugo.me)
 
 ### Experiences
 
@@ -25,6 +26,6 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://sheffcol.ac.
 
 For those wanting to contact me you can reach me on:
 
-🟦 Twitter ~~[@ErisuKuraku](https://www.twitter.com/ErisuKuraku)~~ (Currently Locked 😥)
+🟦 Twitter [@ErisuKuraku](https://www.twitter.com/ErisuKuraku) (Appeal got approved 🥳)
 
 📧 Email [Github@bakugo.me](mailto:github@bakugo.me)
