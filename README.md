@@ -26,6 +26,6 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://www.sheffcol
 
 For those wanting to contact me you can reach me on:
 
-🟦 Twitter [@ErisuKuraku](https://www.twitter.com/ErisuKuraku) (Appeal got approved 🥳)
+🟦 Twitter [@ErisuKuraku](https://www.twitter.com/ErisuKuraku)
 
 📧 Email [Github@bakugo.me](mailto:github@bakugo.me)
