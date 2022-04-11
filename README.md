@@ -8,8 +8,6 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://www.sheffcol
 
 ⚙ I like to SoftMod consoles, tweak them and sometimes open them 👀
 
-🕸 Proud owner of [Bakugo.me](https://bakugo.me)
-
 ### Experiences
 
 🕸 Made it to the Semi-Finals in the Web Design [WorldSkills](https://www.worldskillsuk.org/competitions/web-design/) Competition for 2021
@@ -28,4 +26,4 @@ For those wanting to contact me you can reach me on:
 
 🟦 Twitter [@ErisuKuraku](https://www.twitter.com/ErisuKuraku)
 
-📧 Email [Github@bakugo.me](mailto:github@bakugo.me)
+📧 Email [Github@erisu.tech](mailto:github@erisu.tech)
