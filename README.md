@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a student at WanDisco Academy @ [The Sheffield College](https://www.sheffcol.ac.uk/academy/wandisco-data-academy)
+I'm studying Applied Computing @ Manchester Metropolitan Univerity
 
 ### About me
 
@@ -8,7 +8,9 @@ I'm a student at WanDisco Academy @ [The Sheffield College](https://www.sheffcol
 
 ⚙ I like to SoftMod consoles, tweak them and sometimes open them 👀
 
-### Experiences
+### Experience
+
+🎓 Awarded an  D* D* D in Infomation Technology Level 3 Extended Diploma @ WanDisco Academy
 
 🕸 Made it to the Semi-Finals in the Web Design [WorldSkills](https://www.worldskillsuk.org/competitions/web-design/) Competition for 2021
 
