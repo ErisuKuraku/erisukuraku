@@ -10,7 +10,7 @@ I'm studying Applied Computing @ Manchester Metropolitan Univerity
 
 ### Experience
 
-🎓 Awarded an  D* D* D in Infomation Technology Level 3 Extended Diploma @ WanDisco Academy
+🎓 Awarded an Level 3 Extended Diploma in Infomation Technology @ WanDisco Academy
 
 🕸 Made it to the Semi-Finals in the Web Design [WorldSkills](https://www.worldskillsuk.org/competitions/web-design/) Competition for 2021
 
