@@ -4,7 +4,7 @@ I'm studying Applied Computing @ Manchester Metropolitan Univerity
 
 ### About me
 
-👨‍💻 I know VB, HTML, CSS, some Python and some C#
+👨‍💻 I know some HTML, CSS, Python 🐍, C# and (currently using Java 🍵)
 
 ⚙ I like to SoftMod consoles, tweak them and sometimes open them 👀
 
