@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm studying Applied Computing @ Manchester Metropolitan Univerity
+I'm a second year student studying Applied Computing @ Manchester Metropolitan Univerity
 
 ### About me
 
