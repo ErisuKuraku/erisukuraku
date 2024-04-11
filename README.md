@@ -1,12 +1,10 @@
 ### Hi 👋
 
-I'm a second year student studying Applied Computing @ Manchester Metropolitan Univerity
+I'm a second-year student studying Applied Computing @ Manchester Metropolitan University
 
 ### About me
 
 👨‍💻 I know some HTML, CSS, Python 🐍, C# and (currently using Java 🍵)
-
-⚙ I like to SoftMod consoles, tweak them and sometimes open them 👀
 
 ### Experience
 
@@ -14,9 +12,7 @@ I'm a second year student studying Applied Computing @ Manchester Metropolitan U
 
 🕸 Made it to the Semi-Finals in the Web Design [WorldSkills](https://www.worldskillsuk.org/competitions/web-design/) Competition for 2021
 
-🏫 Achived a 7 (A) in GCSE Computer Science and a Level 2 Distinction Star in Travel and Tourism 👨‍✈️
-
-🏪 I Volunteered at Barnardo's Retail for 1 Year
+🏫 Achieved a 7 (A) in GCSE Computer Science and a Level 2 Distinction Star in Travel and Tourism 👨‍✈️✈️
 
 ### Follow me
 
@@ -24,8 +20,7 @@ I'm a second year student studying Applied Computing @ Manchester Metropolitan U
 
 ### Contact Me
 
-For those wanting to contact me you can reach me on:
+For those wanting to contact me, you can reach me on:
 
 🟦 Twitter [@ErisuKuraku](https://www.twitter.com/ErisuKuraku)
 
-📧 Email [Github@erisu.tech](mailto:github@erisu.tech)
