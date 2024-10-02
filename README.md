@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a second-year student studying Applied Computing @ Manchester Metropolitan University
+I'm a final year student studying Applied Computing @ Manchester Metropolitan University
 
 ### About me
 
@@ -8,7 +8,7 @@ I'm a second-year student studying Applied Computing @ Manchester Metropolitan U
 
 ### Experience
 
-🎓 Awarded an Level 3 Extended Diploma in Infomation Technology @ WanDisco Academy
+🎓 Awarded a Level 3 Extended Diploma in Infomation Technology @ WanDisco Academy
 
 🕸 Made it to the Semi-Finals in the Web Design [WorldSkills](https://www.worldskillsuk.org/competitions/web-design/) Competition for 2021
 
