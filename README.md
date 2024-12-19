@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a final year student studying Applied Computing @ Manchester Metropolitan University
+I'm a final-year student studying Applied Computing @ Manchester Metropolitan University
 
 ### About me
 
@@ -13,14 +13,3 @@ I'm a final year student studying Applied Computing @ Manchester Metropolitan Un
 🕸 Made it to the Semi-Finals in the Web Design [WorldSkills](https://www.worldskillsuk.org/competitions/web-design/) Competition for 2021
 
 🏫 Achieved a 7 (A) in GCSE Computer Science and a Level 2 Distinction Star in Travel and Tourism 👨‍✈️✈️
-
-### Follow me
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ErisuKuraku?style=social">
-
-### Contact Me
-
-For those wanting to contact me, you can reach me on:
-
-🟦 Twitter [@ErisuKuraku](https://www.twitter.com/ErisuKuraku)
-
